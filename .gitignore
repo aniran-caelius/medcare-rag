@@ -1,2 +1,4 @@
 .env
 .venv/
+semantic-search.ipynb
+.vscode*
